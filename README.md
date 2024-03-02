@@ -12,19 +12,14 @@ We are the coders.....
 <p>|￣￣￣￣￣￣￣￣￣￣￣￣|</p>
 <p>|   Developers Let's #Connect!|</p>
 <p>|＿＿＿＿＿＿＿＿＿＿＿__| </p>
-<p>         \ (•◡•) / </p>
-<p>          \      /   </p>
-<p>             ——      </p>
-<p>            |   |    </p>
-<p>            |_  |_    </p>
+<p>&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&emsp;  \ (•◡•) / </p>
+<p>&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &emsp;&emsp; \ &nbsp;&nbsp; /   </p>
+<p>&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &emsp; &ensp;  ——      </p>
+<p>&nbsp; &nbsp;  &nbsp; &nbsp;&emsp; &emsp; | &emsp;  |    </p>
+<p>&nbsp; &nbsp;&nbsp; &nbsp; &emsp;&emsp; |_&emsp;  |_    </p>
 
 <hr/>
 
-
- 
-
-
-<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Atul_27intech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atul_oli" height="30" width="40" /></a>
