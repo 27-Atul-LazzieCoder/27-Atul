@@ -9,9 +9,9 @@ We are the coders.....
 </p>
 
 <p><b><u>Tech Explorer....</u></b> Hi!🥂</p>
-<p>|￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣|</p>
+<p>|￣￣￣￣￣￣￣￣￣￣￣￣￣￣|</p>
 <p>|   Developers Let's &nbsp; &nbsp; #Connect!|</p>
-<p>|＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿| </p>
+<p>|＿＿＿＿＿＿＿＿＿＿＿＿＿＿| </p>
 <p>&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&emsp;  \ (•◡•) / </p>
 <p>&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &emsp;&emsp; \ &nbsp;&nbsp; /   </p>
 <p>&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &emsp; &ensp;  ——      </p>
