@@ -8,7 +8,7 @@ We are the coders.....
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Coder||+Learner||+Engineer;Aspiring+Web+Developer;Always%20Eager%20to%20learn%20new%20things&center=true&width=600&height=80"></a>
 </p>
 
-<p>Tech Explorer.... Hi!🥂</p>
+<p><b>Tech Explorer....</b> Hi!🥂</p>
 <p>|￣￣￣￣￣￣￣￣￣￣￣￣|</p>
 <p>|   Developers Let's #Connect!|</p>
 <p>|＿＿＿＿＿＿＿＿＿＿＿__| </p>
