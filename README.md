@@ -43,3 +43,4 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/atul-oli27-intech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atul-oli27-intech/" height="30" width="40" /></a>
 </p>
 
+<hr/>
