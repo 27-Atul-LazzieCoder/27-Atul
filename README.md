@@ -22,12 +22,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...<b>MY skills</b>
-- 🌱 I’m currently learning ... <u>JavaScript</u>
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... TECH
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on ...&emsp;&emsp;&emsp;<b>MY skills</b>
+- 🌱 I’m currently learning ... &emsp;&emsp;&emsp;<b><u>JavaScript</u></b>
+- 👯 I’m looking to collaborate on ...&emsp;&emsp;&emsp;
+- 🤔 I’m looking for help with ...&emsp;&emsp;&emsp;
+- 💬 Ask me about ... &emsp;&emsp;&emsp;&emsp;TECH
+- 📫 How to reach me: ...&emsp;&emsp;&emsp;&emsp;
 - 😄 
 - ⚡ Fun fact: ...
 -->
