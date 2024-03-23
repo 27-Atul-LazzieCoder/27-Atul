@@ -8,8 +8,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Coder||+Learner||+Engineer;Aspiring+Web+Developer;Always%20Eager%20to%20learn%20new%20things&center=true&width=600&height=80"></a>
 </p>
-<div>
-  <img src="
+<div rowspan=60%>
+  <img src="https://github.com/27-Atul/27-Atul/blob/main/face-woman-futuristic-3d-profile-studio-isolated-background-backdrop-person-bot-droid-with-digital-circuit-bionic-robotic-cyborg-generated-with-cyber-computer-innovation_590464-164012.avif" height=500vh  width=100%    />
 </div>
 <p><b><u>Tech Explorer...  ....</u></b> Hi!🥂</p>
 <p>|￣￣￣￣￣￣￣￣￣￣￣￣￣￣|</p>
