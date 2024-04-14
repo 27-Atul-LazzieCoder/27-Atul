@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... &emsp;&emsp;&emsp;&emsp;TECH
 - 📫 How to reach me: ...&emsp;&emsp;&emsp;&emsp;
 - 😄 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... Knowledge is impossible to take from ourself... 
 -->
 </p>
 
