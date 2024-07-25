@@ -24,16 +24,7 @@
 
 - 📄 Know about my experiences []()
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vivekpanchaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivekpanchaal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vivekpanchal2608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek panchal" height="30" width="40" /></a>
-<a href="https://instagram.com/vivekpaanchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivekpaanchal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vivekpanchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivekpanchal" height="30" width="40" /></a>
-</p>
-<br>
-<div id="badges">
-...........................................
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Coder||+Learner||+Engineer;Aspiring+Web+Developer;Always%20Eager%20to%20learn%20new%20things&center=true&width=600&height=80"></a>
 </p>
@@ -70,7 +61,17 @@ Here are some ideas to get you started:
 <p><a href="https://www.buymeacoffee.com/soldieratul1234@gmail.com"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="soldieratul1234@gmail.com" /></a></p>------>>>> <br><br>
 
 
-<h3 align="left">Connect with me! :</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vivekpanchaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivekpanchaal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vivekpanchal2608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek panchal" height="30" width="40" /></a>
+<a href="https://instagram.com/vivekpaanchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivekpaanchal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vivekpanchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivekpanchal" height="30" width="40" /></a>
+</p>
+<br>
+<div id="badges">
+...........................................
 <p align="left">
 <a href="https://twitter.com/Atul_27intech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atul_oli" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/atul-oli27-intech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atul-oli27-intech/" height="30" width="40" /></a>
