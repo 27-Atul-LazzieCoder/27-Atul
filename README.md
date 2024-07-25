@@ -5,7 +5,7 @@
 
 <h1 align="center"> Hi 👋, My name is ATUL OLI............😊 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 ................ &emsp;&emsp; &emsp;&emsp; &emsp;&emsp;.......................&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;.......................&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;.......................&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;.......................&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;
-<h1 align="center">Hi 👋, I'm Atul OLi</h1>
+
 <h3 align="center">A passionate MERN Stack developer from India 🇮🇳 </h3>
 <img align="right"  alt="Coding" width="560" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif">
 
